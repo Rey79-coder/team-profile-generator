@@ -7,8 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "test"
+    "test": "jest",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/Rey79-coder/team-profile-generator#readme",
   "dependencies": {
-    "inquirer": "^8.1.1",
+    "inquirer": "^8.1.1"
+  },
+  "devDependencies": {
     "jest": "^27.0.5"
   }
 }
