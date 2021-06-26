@@ -33,7 +33,7 @@ https://rey79-coder.github.io/team-profile-generator/
 ## For additional questions about:
    Please reach me out through my email: verareyna79@gmail.com.
    Here is a video on how to work the application.
-#[Video](https://www.youtube.com/watch?v=S_z12I3c0U8&t=22s)
+#[Video](https://youtu.be/FTzdxcujSNk)
 
 For illustration purposes here is a snapshot of real live instance:
 #[Images](https://raw.githubusercontent.com/Rey79-coder/team-profile-generator/main/assets/img/sample.png)
