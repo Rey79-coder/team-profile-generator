@@ -11,8 +11,8 @@
     "start": "node index"
   },
   "repository": {
-    "type": "username",
-    "url": "git+https://github.com/Rey79-coder/team-profile-generator.git"
+    "github": "rey79-coder",
+    "url": "https://rey79-coder.github.io/team-profile-generator/"
   },
   "keywords": [],
   "author": "",

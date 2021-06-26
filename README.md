@@ -30,7 +30,7 @@
 ## email:
     verareyna79@gmail.com
 
-## For additional questions about README-Generator:
+## For additional questions about:
    Please reach me out through my email: verareyna79@gmail.com.
    Here is a video on how to work the application.
 #[Video](https://drive.google.com/file/d/1tl1pwlHSfMgXHlhJiNjzWUhO9NW5Duhr/view?usp=sharing)

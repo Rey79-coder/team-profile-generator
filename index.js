@@ -66,7 +66,7 @@ if (answers.role === "Manager") {
         {
             type: "input",
             message: "What is your GitHub user name?",
-            name: "gitHub",
+            name: "github",
          }
     ])
     const newEngineer = new Engineer (
