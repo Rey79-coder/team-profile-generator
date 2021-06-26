@@ -124,7 +124,7 @@ const addMemberAns = await inquirer
     function createTeam() {
         console.log("new guy", newStaffMemberData)
         fs.writeFileSync(
-            "./dist/index.html",
+            "./docs/index.html",
             generateHTML(newStaffMemberData),
             "utf-8"
         );
