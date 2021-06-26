@@ -33,7 +33,7 @@
 ## For additional questions about:
    Please reach me out through my email: verareyna79@gmail.com.
    Here is a video on how to work the application.
-#[Video](https://drive.google.com/file/d/1tl1pwlHSfMgXHlhJiNjzWUhO9NW5Duhr/view?usp=sharing)
+#[Video](https://www.youtube.com/watch?v=S_z12I3c0U8&t=22s)
 
 For illustration purposes here is a snapshot of real live instance:
 #[Images](https://raw.githubusercontent.com/Rey79-coder/README-generator/main/assets/img/README-sample-template-1920x720.png)
