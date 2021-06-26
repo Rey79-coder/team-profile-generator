@@ -24,7 +24,7 @@
 ## Contribution:
     Contact me first.
 ## Link:
-    https://github.com/Rey79-coder/team-profile-generator
+https://rey79-coder.github.io/team-profile-generator/
 ## Questions:
     This webpage can be adapted to any company. It's a basic raw code ready to be the basic for more complex projects.
 ## email:
