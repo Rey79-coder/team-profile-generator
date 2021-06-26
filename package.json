@@ -11,14 +11,14 @@
     "start": "node index"
   },
   "repository": {
-    "type": "git",
+    "type": "",
     "url": "git+https://github.com/Rey79-coder/team-profile-generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rey79-coder/team-profile-generator/issues"
+    "url": "https://github.com/Rey79-coder/team-profile-generator"
   },
   "homepage": "https://github.com/Rey79-coder/team-profile-generator#readme",
   "dependencies": {
