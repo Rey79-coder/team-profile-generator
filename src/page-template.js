@@ -22,11 +22,11 @@ function generateHTML(data) {
         .cardbody{
             width: 200px;
             border-radius: 10px;
-            box-shadow: 5px 10px 8px #888888;
+            box-shadow: 5px 10px 8px #89A13A;
         }
     </style>
-  <div class="jumbotron" style="background: gray" >
-    <h1 class="text-center" >Company Employees</h1>
+  <div class="jumbotron" style="background: white" >
+    <h1 class="text-center" style="color: #89A13A" >Echeriri Employees</h1>
     </div>
     <div class='container'>
     <ul class="ul">
@@ -61,7 +61,7 @@ function generateHTML(data) {
     <li>
     <div class="col-md-3">
     <div class="card cardbody">
-      <div class="card-header" style="background: #5178ED">
+      <div class="card-header" style="background: #fffbc7">
                    ${x.name}<br>
                    <div class="fa fa-edit">${x.getRole()}</div>
                   </div>
@@ -95,7 +95,7 @@ function generateHTML(data) {
         <li>
         <div class="col-md-3">
                     <div class="card cardbody">
-                      <div class="card-header" style="background: #5178ED">
+                      <div class="card-header" style="background: #fffbc7">
                                    ${x.name}<br>
                                   <div><i class="fa fa-book"></i> ${x.getRole()}</div><i class="">
                                   </div>
@@ -129,7 +129,7 @@ function generateHTML(data) {
     <li>
     <div class="col-md-3">
         <div class="card cardbody">
-          <div class="card-header" style="background: #5178ED">
+          <div class="card-header" style="background: #fffbc7">
                  ${x.name}<br>
                 <div><i class="fa fa-coffee"></i> ${x.getRole()}</div>
                 </div>
